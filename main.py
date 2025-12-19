@@ -12,12 +12,12 @@ from telegram.error import BadRequest
 from datetime import datetime
 
 # === НАСТРОЙКИ ===
-BOT_TOKEN = "8386969350:AAG699oYX_eMdA0Bp25j7frRYN_UPE6tN48"
-ADMIN_PASSWORD = "14542679"
-ADMIN_CHAT_ID = 7262700946
-PAYMENT_PHONE = "+7 909 375 2062"
-STORE_ADDRESS = "Улица Набережная 1 мая, 38 1 этаж"
-VK_LINK = "https://vk.com/dari.krasivo_30?from=groups"
+BOT_TOKEN = ""
+ADMIN_PASSWORD = ""
+ADMIN_CHAT_ID = 
+PAYMENT_PHONE = ""
+STORE_ADDRESS = ""
+VK_LINK = ""
 
 # === ХРАНИЛИЩЕ ===
 catalog = {
